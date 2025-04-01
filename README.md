@@ -1,19 +1,13 @@
-## Olá a todos 👋
-<h3> 📅 Ano novo, novas energias 🌟 
-  <h3>A página está passando por mudanças agora, mas logo estará cheia de novos projetos.🌱
-    <h3>Sempre experimentando, errando, aprendendo e melhorando até acertar 😉
+# 👋 Hi, I'm Gabriel
 
-<!--
-**GabrielStulpen/GabrielStulpen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 23 years old, I live in Brazil, and I'm passionate about technology.
 
-Here are some ideas to get you started:
+<h3>About me:</h3>
+🎓 Bachelor's degree in Information Systems (Unileste) <p>
+🎮 Currently studying game development <p>
+🎥 Photo and video editor, also learning 3D modeling <p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Here on GitHub, I share my projects, learnings, and experiences. <p>
+⚡ Feel free to explore and follow my progress.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielStulpen&layout=compact&theme=midnight-purple)
